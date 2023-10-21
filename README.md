@@ -57,9 +57,8 @@ while True:
 ```
 
 # PRUEBAS
-```html
 <iframe width="455" height="809" src="https://www.youtube.com/embed/6NbrHfhaVgs" title="Menu con pushbuttons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-```
+
 
 # CONCLUSIONES
 Los pushbottons manejan dos tipos: NC y NO. En primera instancia, hay que saber cual es el que esta siendo utilizado, para poder realizar el código posteriormente. De otro modo, puede generar muchos problemas al momento de comprender su funcionamiento.
