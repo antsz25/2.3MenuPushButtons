@@ -57,7 +57,7 @@ while True:
 ```
 
 # PRUEBAS
-<iframe width="455" height="809" src="https://www.youtube.com/embed/6NbrHfhaVgs" title="Menu con pushbuttons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![](https://markdown-videos.deta.dev/youtube/6NbrHfhaVgs)](https://www.youtube.com/shorts/6NbrHfhaVgs)
 
 
 # CONCLUSIONES
