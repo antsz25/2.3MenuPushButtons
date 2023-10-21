@@ -57,7 +57,7 @@ while True:
 ```
 
 # PRUEBAS
-[Video de prueba](https://github.com/antsz25/2.3MenuPushButtons/blob/main/Prueba.mp4)
+[![Video de prueba](https://github.com/antsz25/2.3MenuPushButtons/blob/main/Portada.jpg)](https://youtube.com/shorts/Rp1m2zCZxtc?feature=share)
 
 
 # CONCLUSIONES
