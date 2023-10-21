@@ -58,7 +58,7 @@ while True:
 
 # PRUEBAS
 
-![Video_Prueba](https://youtube.com/shorts/6NbrHfhaVgs?feature=share)
+![Video_Prueba](https://www.youtube.com/shorts/6NbrHfhaVgs)
 
 # CONCLUSIONES
 Los pushbottons manejan dos tipos: NC y NO. En primera instancia, hay que saber cual es el que esta siendo utilizado, para poder realizar el código posteriormente. De otro modo, puede generar muchos problemas al momento de comprender su funcionamiento.
