@@ -57,7 +57,7 @@ while True:
 ```
 
 # PRUEBAS
-[Video de prueba](https://github.com/antsz25/2.3MenuPushButtons/blob/main/Menu%20con%20pushbuttons.mp4)
+[Video de prueba](https://github.com/antsz25/2.3MenuPushButtons/blob/main/Prueba.mp4)
 
 
 # CONCLUSIONES
