@@ -57,7 +57,7 @@ while True:
 ```
 
 # PRUEBAS
-[![Video de prueba](https://github.com/antsz25/2.3MenuPushButtons/blob/main/Portada.jpg){width=300 height=200}](https://youtube.com/shorts/Rp1m2zCZxtc?feature=share){:target="_blank"}
+<a href="https://youtube.com/shorts/Rp1m2zCZxtc?feature=share" target="_blank"><img src="https://github.com/antsz25/2.3MenuPushButtons/blob/main/Portada.jpg" alt="Ejemplo de Imagen" width="300" height="200"></a>
 
 
 # CONCLUSIONES
