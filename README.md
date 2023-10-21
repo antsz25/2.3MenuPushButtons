@@ -57,7 +57,8 @@ while True:
 ```
 
 # PRUEBAS
-<a href="https://youtube.com/shorts/Rp1m2zCZxtc?feature=share" target="_blank"><img src="https://github.com/antsz25/2.3MenuPushButtons/blob/main/Portada.jpg" alt="Ejemplo de Imagen" width="300" height="200"></a>
+Da un clic a la imagen para dirigirte a la pestaña de youtube en short para reproducir la prueba del proyecto
+<a href="https://youtube.com/shorts/Rp1m2zCZxtc?feature=share" target="_blank"><img src="https://github.com/antsz25/2.3MenuPushButtons/blob/main/Portada.jpg" alt="Haz clic para dirigirte al video" width="300" height="500"></a>
 
 
 # CONCLUSIONES
