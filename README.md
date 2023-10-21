@@ -57,7 +57,7 @@ while True:
 ```
 
 # PRUEBAS
-[![](https://markdown-videos.deta.dev/youtube/6NbrHfhaVgs)](https://www.youtube.com/shorts/6NbrHfhaVgs)
+[![]()
 
 
 # CONCLUSIONES
